@@ -1,0 +1,57 @@
+#titulo {
+    background-color: violet;
+    color: white;
+    padding: 50px;
+    font-size: 60px;
+     line-height: 1.5em;
+}
+body {
+    background-color: white;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    line-height: 1em;
+}
+img {
+    border-radius: 50%;
+}
+h2 {
+    color: blue;
+    text-align: center;
+    font-family: "arial";
+    font-size:32px;
+}
+h3 {
+    color: orange;
+    text-align: center;
+    font-family: "arial";
+    font-size: 28px;
+    line-height: 1.5em; 
+}
+p {
+    color: black;
+    text-align: center;
+    font-family: "arial";
+    font-size: 25px;
+    line-height: 0.5em;
+}
+h4 {
+    font-size: 35px;
+    color: violet;
+    line-height: 0.8em; 
+}
+a:hover {
+    background-color: gold;
+    transition: background-color 0.5s;
+    font-size: 40px;
+}
+h5 {
+    background-color: violet;
+    text-align: center;
+    color: white;
+    padding: 50px;
+    font-family: "arial";
+    font-size: 22px;
+}
